@@ -1,4 +1,6 @@
 # Joins
+Solve the following excercises using MySQL and upload an ```.sql``` File with the solutions
+
 ## Tables
 
 Create the following tables like shown in the Class Diagram 
