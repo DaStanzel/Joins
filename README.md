@@ -1,5 +1,5 @@
 # Joins
-Solve the following excercises using MySQL and upload an ```.sql``` File with the solutions
+Solve the following excercises using SQL and upload an ```.sql``` File with the solutions
 
 ## Tables
 
@@ -39,7 +39,7 @@ For excercising the select statement do the following excercises
 * create a query that shows last names, salaries and commissions of all employees whose commission is 20%. Give the columns Employee, Monthly Salary, and Commission headings. (3 points)
 
 ## Joins
-For excercising joins solve the following excercises
+For excercising joins solve the following excercises with joins and subselects
 
 * The management would like a list of the different salaries per job. The output should contain the job_id as well as the sum of the salaries per job_id. In addition, the output should be sorted in descending order according to the sum of the salaries.
 
